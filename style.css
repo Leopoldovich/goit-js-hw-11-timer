@@ -1,0 +1,44 @@
+body {
+    margin-top: 270px;
+    background-color: #021938;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 500;
+  }
+
+  .text {
+    color: #f42121;
+    font-size: 70px;
+    font-weight: 500;
+  }
+  
+  .timer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: rgb(100, 18, 18);
+    text-align: center;
+    font-size: 100px;
+    margin-bottom: 20px;
+  }
+  
+  .field {
+    display: inline-block;
+    padding: 10px 10px 10px 10px;
+  }
+  
+  .value {
+    display: inline-block;
+    padding: 7px;
+    border-radius: 5px;
+    background-color: rgb(235, 198, 198);
+  }
+  
+  .label {
+    display: block;
+    padding-top: 10px;
+    color: #f42172;
+    font-size: 25px;
+  }
